@@ -1,3 +1,6 @@
+# Disclaimer
+This application was not created by me, using this for a devops training via LinkedInLearning
+
 # word-cloud-generator
 It's a golang web app that takes a block of text and turns it into a word cloud. 
 
